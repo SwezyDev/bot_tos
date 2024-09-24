@@ -1,0 +1,22 @@
+-- Usage of Data --
+
+The bot may use stored data, as defined below, for different features, including but not limited to: handling commands, and enhancing the overall user experience of Discord servers. No usage of data outside of the aforementioned cases will occur, and the data will not be shared with any third-party site or service.
+
+__Stored Information__
+The bot may store the following information automatically:
+
+    id — the server's or user's unique ID.
+    Runned commands — the commands that the members run
+
+__Updating Data__
+Data may be updated when using specific features of the bot. Such updates may involve user-provided information, such as text messages or interactions, which are only stored temporarily for their intended purposes.
+
+__Temporarily Stored Information__
+The bot may cache certain data temporarily to minimize database requests and improve performance. Cached data is discarded after a set period or can be dropped prematurely by removing the bot from a server.
+
+__Removal of Data__
+ - Automatic Removal
+   Stored data can be removed automatically by removing the bot from a Discord server. This can be achieved via standard server or account management options.
+ - Manual Removal
+   Manual removal of data can be requested through our official Support Discord for the bot, or by contacting us at swezydev@gmail.com. Proof of ownership or identity may be required for such requests.
+  
