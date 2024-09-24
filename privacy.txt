@@ -20,3 +20,7 @@ __Removal of Data__
  - Manual Removal
    Manual removal of data can be requested through our official Support Discord for the bot, or by contacting us at swezydev@gmail.com. Proof of ownership or identity may be required for such requests.
   
+
+Discord Bot Support Server : https://discord.gg/yMChKntGt6
+Main Discord Server : https://discord.gg/KkxjCe8Fg2
+Email : swezydev@gmail.com
